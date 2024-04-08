@@ -8,4 +8,5 @@
 В README файлі навести UML діаграму класів для коду згідно власного варіанту з короткими поясненнями.
 Закомітити код та зробити pull request.
 
-
+UML Діаграма:
+![image](https://github.com/Ostroh-Academy/05-abstract-factory-dim4ik9228/assets/91199246/86fa239b-3999-424f-9f64-1c535cd78fd3)
